@@ -5,3 +5,6 @@
 Have create a new branch !
 
 分支管理策略
+
+...开发中
+修复bug去了,修复好了...
