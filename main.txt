@@ -3,3 +3,5 @@
 2. This is second commit.
 
 Have create a new branch !
+
+分支管理策略
